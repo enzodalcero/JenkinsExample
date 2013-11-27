@@ -1,4 +1,4 @@
-jenkinsexemple
+JenkinsExample
 ==============
 
 Example repository for Jenkins
